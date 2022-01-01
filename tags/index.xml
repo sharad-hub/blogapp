@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Tech blog</title>
-    <link>/tags/</link>
+    <link>https://sharad-hub.github.io/blogapp/tags/</link>
     <description>Recent content in Tags on Tech blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Jan 2022 18:18:36 +0530</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jan 2022 18:18:36 +0530</lastBuildDate><atom:link href="https://sharad-hub.github.io/blogapp/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Another test</title>
-      <link>/tags/another-test/</link>
+      <link>https://sharad-hub.github.io/blogapp/tags/another-test/</link>
       <pubDate>Sat, 01 Jan 2022 18:18:36 +0530</pubDate>
       
-      <guid>/tags/another-test/</guid>
+      <guid>https://sharad-hub.github.io/blogapp/tags/another-test/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Database</title>
-      <link>/tags/database/</link>
+      <link>https://sharad-hub.github.io/blogapp/tags/database/</link>
       <pubDate>Sat, 01 Jan 2022 18:18:36 +0530</pubDate>
       
-      <guid>/tags/database/</guid>
+      <guid>https://sharad-hub.github.io/blogapp/tags/database/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MSQL</title>
-      <link>/tags/msql/</link>
+      <link>https://sharad-hub.github.io/blogapp/tags/msql/</link>
       <pubDate>Sat, 01 Jan 2022 18:18:36 +0530</pubDate>
       
-      <guid>/tags/msql/</guid>
+      <guid>https://sharad-hub.github.io/blogapp/tags/msql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RDS</title>
-      <link>/tags/rds/</link>
+      <link>https://sharad-hub.github.io/blogapp/tags/rds/</link>
       <pubDate>Sat, 01 Jan 2022 18:18:36 +0530</pubDate>
       
-      <guid>/tags/rds/</guid>
+      <guid>https://sharad-hub.github.io/blogapp/tags/rds/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Test</title>
-      <link>/tags/test/</link>
+      <link>https://sharad-hub.github.io/blogapp/tags/test/</link>
       <pubDate>Sat, 01 Jan 2022 18:18:36 +0530</pubDate>
       
-      <guid>/tags/test/</guid>
+      <guid>https://sharad-hub.github.io/blogapp/tags/test/</guid>
       <description></description>
     </item>
     
