@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://sharadsingh.net/posts/</loc>
+    <lastmod>2022-01-01T19:31:33+05:30</lastmod>
+  </url><url>
+    <loc>http://sharadsingh.net/posts/system-design/</loc>
+    <lastmod>2022-01-01T19:31:33+05:30</lastmod>
+  </url><url>
+    <loc>http://sharadsingh.net/</loc>
+    <lastmod>2022-01-01T19:31:33+05:30</lastmod>
+  </url><url>
     <loc>http://sharadsingh.net/tags/another-test/</loc>
     <lastmod>2022-01-01T18:18:36+05:30</lastmod>
   </url><url>
@@ -23,9 +32,6 @@
     <loc>http://sharadsingh.net/tags/msql/</loc>
     <lastmod>2022-01-01T18:18:36+05:30</lastmod>
   </url><url>
-    <loc>http://sharadsingh.net/posts/</loc>
-    <lastmod>2022-01-01T18:18:36+05:30</lastmod>
-  </url><url>
     <loc>http://sharadsingh.net/tags/rds/</loc>
     <lastmod>2022-01-01T18:18:36+05:30</lastmod>
   </url><url>
@@ -33,9 +39,6 @@
     <lastmod>2022-01-01T18:18:36+05:30</lastmod>
   </url><url>
     <loc>http://sharadsingh.net/tags/</loc>
-    <lastmod>2022-01-01T18:18:36+05:30</lastmod>
-  </url><url>
-    <loc>http://sharadsingh.net/</loc>
     <lastmod>2022-01-01T18:18:36+05:30</lastmod>
   </url><url>
     <loc>http://sharadsingh.net/tags/test/</loc>
