@@ -2,49 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sharad-hub.github.io/blogapp/posts/</loc>
+    <loc>https://www.sharadsingh.net/posts/</loc>
     <lastmod>2022-01-01T19:31:33+05:30</lastmod>
   </url><url>
-    <loc>https://sharad-hub.github.io/blogapp/posts/system-design/</loc>
+    <loc>https://www.sharadsingh.net/posts/system-design/</loc>
     <lastmod>2022-01-01T19:31:33+05:30</lastmod>
   </url><url>
-    <loc>https://sharad-hub.github.io/blogapp/</loc>
+    <loc>https://www.sharadsingh.net/</loc>
     <lastmod>2022-01-01T19:31:33+05:30</lastmod>
   </url><url>
-    <loc>https://sharad-hub.github.io/blogapp/tags/another-test/</loc>
+    <loc>https://www.sharadsingh.net/tags/another-test/</loc>
     <lastmod>2022-01-01T18:18:36+05:30</lastmod>
   </url><url>
-    <loc>https://sharad-hub.github.io/blogapp/categories/</loc>
+    <loc>https://www.sharadsingh.net/categories/</loc>
     <lastmod>2022-01-01T18:18:36+05:30</lastmod>
   </url><url>
-    <loc>https://sharad-hub.github.io/blogapp/categories/category-1/</loc>
+    <loc>https://www.sharadsingh.net/categories/category-1/</loc>
     <lastmod>2022-01-01T18:18:36+05:30</lastmod>
   </url><url>
-    <loc>https://sharad-hub.github.io/blogapp/categories/category-2/</loc>
+    <loc>https://www.sharadsingh.net/categories/category-2/</loc>
     <lastmod>2022-01-01T18:18:36+05:30</lastmod>
   </url><url>
-    <loc>https://sharad-hub.github.io/blogapp/tags/database/</loc>
+    <loc>https://www.sharadsingh.net/tags/database/</loc>
     <lastmod>2022-01-01T18:18:36+05:30</lastmod>
   </url><url>
-    <loc>https://sharad-hub.github.io/blogapp/posts/databases/nosql-database/</loc>
+    <loc>https://www.sharadsingh.net/posts/databases/nosql-database/</loc>
     <lastmod>2022-01-01T18:18:36+05:30</lastmod>
   </url><url>
-    <loc>https://sharad-hub.github.io/blogapp/tags/msql/</loc>
+    <loc>https://www.sharadsingh.net/tags/msql/</loc>
     <lastmod>2022-01-01T18:18:36+05:30</lastmod>
   </url><url>
-    <loc>https://sharad-hub.github.io/blogapp/tags/rds/</loc>
+    <loc>https://www.sharadsingh.net/tags/rds/</loc>
     <lastmod>2022-01-01T18:18:36+05:30</lastmod>
   </url><url>
-    <loc>https://sharad-hub.github.io/blogapp/posts/databases/relational-database/</loc>
+    <loc>https://www.sharadsingh.net/posts/databases/relational-database/</loc>
     <lastmod>2022-01-01T18:18:36+05:30</lastmod>
   </url><url>
-    <loc>https://sharad-hub.github.io/blogapp/tags/</loc>
+    <loc>https://www.sharadsingh.net/tags/</loc>
     <lastmod>2022-01-01T18:18:36+05:30</lastmod>
   </url><url>
-    <loc>https://sharad-hub.github.io/blogapp/tags/test/</loc>
+    <loc>https://www.sharadsingh.net/tags/test/</loc>
     <lastmod>2022-01-01T18:18:36+05:30</lastmod>
   </url><url>
-    <loc>https://sharad-hub.github.io/blogapp/posts/mypost/</loc>
+    <loc>https://www.sharadsingh.net/posts/mypost/</loc>
     <lastmod>2022-01-01T18:14:26+05:30</lastmod>
   </url>
 </urlset>
