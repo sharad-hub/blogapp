@@ -2,49 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://sharadsingh.net/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2022-01-01T19:31:33+05:30</lastmod>
   </url><url>
-    <loc>http://sharadsingh.net/posts/system-design/</loc>
+    <loc>/posts/system-design/</loc>
     <lastmod>2022-01-01T19:31:33+05:30</lastmod>
   </url><url>
-    <loc>http://sharadsingh.net/</loc>
+    <loc>/</loc>
     <lastmod>2022-01-01T19:31:33+05:30</lastmod>
   </url><url>
-    <loc>http://sharadsingh.net/tags/another-test/</loc>
+    <loc>/tags/another-test/</loc>
     <lastmod>2022-01-01T18:18:36+05:30</lastmod>
   </url><url>
-    <loc>http://sharadsingh.net/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2022-01-01T18:18:36+05:30</lastmod>
   </url><url>
-    <loc>http://sharadsingh.net/categories/category-1/</loc>
+    <loc>/categories/category-1/</loc>
     <lastmod>2022-01-01T18:18:36+05:30</lastmod>
   </url><url>
-    <loc>http://sharadsingh.net/categories/category-2/</loc>
+    <loc>/categories/category-2/</loc>
     <lastmod>2022-01-01T18:18:36+05:30</lastmod>
   </url><url>
-    <loc>http://sharadsingh.net/tags/database/</loc>
+    <loc>/tags/database/</loc>
     <lastmod>2022-01-01T18:18:36+05:30</lastmod>
   </url><url>
-    <loc>http://sharadsingh.net/posts/databases/nosql-database/</loc>
+    <loc>/posts/databases/nosql-database/</loc>
     <lastmod>2022-01-01T18:18:36+05:30</lastmod>
   </url><url>
-    <loc>http://sharadsingh.net/tags/msql/</loc>
+    <loc>/tags/msql/</loc>
     <lastmod>2022-01-01T18:18:36+05:30</lastmod>
   </url><url>
-    <loc>http://sharadsingh.net/tags/rds/</loc>
+    <loc>/tags/rds/</loc>
     <lastmod>2022-01-01T18:18:36+05:30</lastmod>
   </url><url>
-    <loc>http://sharadsingh.net/posts/databases/relational-database/</loc>
+    <loc>/posts/databases/relational-database/</loc>
     <lastmod>2022-01-01T18:18:36+05:30</lastmod>
   </url><url>
-    <loc>http://sharadsingh.net/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2022-01-01T18:18:36+05:30</lastmod>
   </url><url>
-    <loc>http://sharadsingh.net/tags/test/</loc>
+    <loc>/tags/test/</loc>
     <lastmod>2022-01-01T18:18:36+05:30</lastmod>
   </url><url>
-    <loc>http://sharadsingh.net/posts/mypost/</loc>
+    <loc>/posts/mypost/</loc>
     <lastmod>2022-01-01T18:14:26+05:30</lastmod>
   </url>
 </urlset>

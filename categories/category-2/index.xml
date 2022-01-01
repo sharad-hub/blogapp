@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Category 2 on Tech blog</title>
-    <link>http://sharadsingh.net/categories/category-2/</link>
+    <link>/categories/category-2/</link>
     <description>Recent content in Category 2 on Tech blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Jan 2022 18:18:36 +0530</lastBuildDate><atom:link href="http://sharadsingh.net/categories/category-2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jan 2022 18:18:36 +0530</lastBuildDate><atom:link href="/categories/category-2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Example article title</title>
-      <link>http://sharadsingh.net/posts/databases/nosql-database/</link>
+      <link>/posts/databases/nosql-database/</link>
       <pubDate>Sat, 01 Jan 2022 18:18:36 +0530</pubDate>
       
-      <guid>http://sharadsingh.net/posts/databases/nosql-database/</guid>
+      <guid>/posts/databases/nosql-database/</guid>
       <description>You need to put your icon file in layouts/partials directory under your project&amp;rsquo;s root if you want to display an icon of your social link. The icon filed, which is optional, should be a path relative to</description>
     </item>
     
     <item>
       <title>relational article title</title>
-      <link>http://sharadsingh.net/posts/databases/relational-database/</link>
+      <link>/posts/databases/relational-database/</link>
       <pubDate>Sat, 01 Jan 2022 18:18:36 +0530</pubDate>
       
-      <guid>http://sharadsingh.net/posts/databases/relational-database/</guid>
+      <guid>/posts/databases/relational-database/</guid>
       <description>You need to put your icon file in layouts/partials directory under your project&amp;rsquo;s root if you want to display an icon of your social link. The icon filed, which is optional, should be a path relative to</description>
     </item>
     

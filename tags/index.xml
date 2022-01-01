@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Tech blog</title>
-    <link>http://sharadsingh.net/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Tech blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Jan 2022 18:18:36 +0530</lastBuildDate><atom:link href="http://sharadsingh.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jan 2022 18:18:36 +0530</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Another test</title>
-      <link>http://sharadsingh.net/tags/another-test/</link>
+      <link>/tags/another-test/</link>
       <pubDate>Sat, 01 Jan 2022 18:18:36 +0530</pubDate>
       
-      <guid>http://sharadsingh.net/tags/another-test/</guid>
+      <guid>/tags/another-test/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Database</title>
-      <link>http://sharadsingh.net/tags/database/</link>
+      <link>/tags/database/</link>
       <pubDate>Sat, 01 Jan 2022 18:18:36 +0530</pubDate>
       
-      <guid>http://sharadsingh.net/tags/database/</guid>
+      <guid>/tags/database/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MSQL</title>
-      <link>http://sharadsingh.net/tags/msql/</link>
+      <link>/tags/msql/</link>
       <pubDate>Sat, 01 Jan 2022 18:18:36 +0530</pubDate>
       
-      <guid>http://sharadsingh.net/tags/msql/</guid>
+      <guid>/tags/msql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RDS</title>
-      <link>http://sharadsingh.net/tags/rds/</link>
+      <link>/tags/rds/</link>
       <pubDate>Sat, 01 Jan 2022 18:18:36 +0530</pubDate>
       
-      <guid>http://sharadsingh.net/tags/rds/</guid>
+      <guid>/tags/rds/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Test</title>
-      <link>http://sharadsingh.net/tags/test/</link>
+      <link>/tags/test/</link>
       <pubDate>Sat, 01 Jan 2022 18:18:36 +0530</pubDate>
       
-      <guid>http://sharadsingh.net/tags/test/</guid>
+      <guid>/tags/test/</guid>
       <description></description>
     </item>
     
